@@ -55,14 +55,16 @@ The complete output from the User Centered Branding workshop can be found here
 ## How to contribute
 Feel free to use a method of contribution you are most comfortable with. If you are new to Git, you can use GitHub to contribute by simply uploading new files to the repository and following the rules below.
 
-When contributing, your commit will go though the following process:
-• Commit is flagged with two Brand Administrators  
-• Brand Administrators will assess the commit against the contribution rules  
-• Brand Administrators will approve or deny the commit, with a message outlining the desision  
-• Commit will only be merged into the master branch if both Administators approve
+When contributing, your pull request will go though the following process:  
+• Pull request is flagged with two Brand Administrators  
+• Brand Administrators will assess the request against the contribution rules  
+• Brand Administrators will approve or deny the request, with a message outlining the decision  
+• Pull request will only be merged into the master branch if both Administators approve
 
-### Rule 1: Clear and consise comments
-When commiting a change or adding a new file/asset, be sure to give your commit a title (i.e 'Updated logo colours') along with a detailed description of the changes made (i.e 'Changed the logo colours to comply with WCAG 2.0 AA contrast requirements'). This will ensure a quick and easy approval process
+[Here](https://github.com/timcruicky/Product_Of/pull/3#pullrequestreview-39966146) is an example of a bad pull request.
+
+### Rule 1: Clear and concise comments
+When commiting a change or adding a new file/asset, be sure to give your pull request a title (i.e 'Updated logo colours') along with a detailed description of the changes made (i.e 'Changed the logo colours to comply with WCAG 2.0 AA contrast requirements'). This will ensure a quick and easy approval process
 
 ### Rule 2: Align with the brand Feelings, Traits & Persona
 When creating a new asset, or updating an old asset, be sure to relate your choices back to the brand Feelings, Traits & Persona. The Brand Administrators will decide if your requested change/addition aligns with the overall brand foundation & direciton.
@@ -70,8 +72,8 @@ When creating a new asset, or updating an old asset, be sure to relate your choi
 ### Rule 3: Clean master files
 When you commit an asset, be sure to upload any master files needed to work on that asset (i.e. if you're commiting an SVG, be sure to upload the .sketch, .ai, etc you used to create that SVG). The master files you upload should have a clean and clear file strucutre (i.e. foldrs, layer names, etc). If you need help with this, download some existing assets from the repository and see how other designers have structured their files.
 
-### Rule 4: Accessability
-You're assets will be checked agaist WCAG 2.0 AA accesability standards (at a minimum, admins may also check against colour blind accesability standards, etc). It's important to us that Product Of is accessible and inclusive to all those that wish to interact with it.
+### Rule 4: Accessibility
+You're assets will be checked agaist WCAG 2.0 AA accessibility standards (at a minimum, admins may also check against colour blind accessibility standards, etc). It's important to us that Product Of is accessible and inclusive to all those that wish to interact with it.
 
 
 ## Contact
